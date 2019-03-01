@@ -42,7 +42,7 @@
 				</header>
 				<p>A Computer Science Engineering Student at <a href="#">Chitkara University</a> A joyful developer and Friendly to all.<br />
 				I am a freelancer for projects you can hire me for your <strong>Projects</strong>, and also interested in parternship or building a startups<br />
-				Most Iterested in innovative products.</p>
+				Most Interested in innovative products.</p>
 				<footer>
 					<a href="#first" class="button style2 scrolly"> Know More </a>
 					<p>|</p>
